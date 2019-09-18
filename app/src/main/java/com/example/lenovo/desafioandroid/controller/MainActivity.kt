@@ -1,7 +1,8 @@
-package com.example.lenovo.desafioandroid
+package com.example.lenovo.desafioandroid.controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.example.lenovo.desafioandroid.R
 
 class MainActivity : AppCompatActivity() {
 

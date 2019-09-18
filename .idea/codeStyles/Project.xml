@@ -1,7 +1,7 @@
 <component name="ProjectCodeStyleConfiguration">
   <code_scheme name="Project" version="173">
     <JetCodeStyleSettings>
-      <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+      <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OLD_DEFAULTS" />
     </JetCodeStyleSettings>
     <Objective-C-extensions>
       <file>
@@ -29,7 +29,7 @@
       </extensions>
     </Objective-C-extensions>
     <codeStyleSettings language="kotlin">
-      <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+      <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OLD_DEFAULTS" />
     </codeStyleSettings>
   </code_scheme>
 </component>
